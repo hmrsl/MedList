@@ -17,11 +17,11 @@ public class Home {
         return "index.jsp";
     }
 
-    @RequestMapping(value = "/admin", method = RequestMethod.GET)
+    @RequestMapping(value = "/login", method = RequestMethod.GET)
     public String getAdmin(){
         return "admin/index.jsp";
     }
-    @RequestMapping(value = "/login", method = RequestMethod.GET)
+    @RequestMapping(value = "/register", method = RequestMethod.GET)
     public String getLogin(){
         return "admin/login.jsp";
     }
