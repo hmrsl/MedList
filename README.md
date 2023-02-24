@@ -1,12 +1,12 @@
-## EnLearn
+## MedList
 
 ![logo.png](src/main/webapp/resources/img/logo.png)
 
 ### Contribution Guide
 
 1. Clone the repository<br>
-    * `git clone https://github.com/lonewol7f/EnLearn.git` <br>
-    * `cd EnLearn`
+    * `git clone https://github.com/lonewol7f/MedList.git` <br>
+    * `cd MedList`
 
 2. Create a new branch for each new feature <br>
     * `git checkout -b branchName` - This creates the branch and checks it out&nbsp;&nbsp;(Use for creating new branch) <br>
